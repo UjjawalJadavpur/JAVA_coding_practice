@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class Main {
+public class reverseWordInString {
     public static void main(String[] args) {
         String str1 = "  hello   world  ";
         
